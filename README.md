@@ -35,4 +35,5 @@ rm -rf ll4d*
 sudo aptitude purge lxd
 ```
 
-> As a note: it takes around 48 seconds to build the whole environment on a Intel NUC (i7/16GB)
+> As a note: it takes around **48 seconds** to build the whole environment on a Intel NUC (i7/16GB)
+> and *764 MB* of space on the hard disk.
